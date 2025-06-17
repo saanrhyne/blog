@@ -8,7 +8,7 @@ tags:
 - writeup
 - rev
 - smileyctf
-date: 2024-6-15 00:00 -0500
+date: 2025-6-15 00:00 -0500
 ---
 
 # rev/Success - Flocto
