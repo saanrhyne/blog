@@ -7,7 +7,7 @@ category:
 tags:
 - writeup
 - misc
-- smileyctf
+- smileyctf 2025
 date: 2025-6-15 00:01 -0500
 ---
 
