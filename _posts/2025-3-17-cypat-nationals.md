@@ -6,6 +6,8 @@ category:
 - CyberPatriot
 tags:
 - cyberpatriot
+- nationals
+- cyberpatriot 17
 date: 2025-3-17 00:00 -0500
 ---
 
