@@ -8,7 +8,7 @@ tags:
 - writeup
 - misc
 - smileyctf
-date: 2024-6-16 20:57 -0500
+date: 2025-6-15 20:57 -0500
 ---
 
 # misc/sky - smashmaster
