@@ -5,7 +5,6 @@ description: My writeup for the rev/Success challenge in SmileyCTF 2025
 category:
 - Writeups
 tags:
-- writeup
 - rev
 - smileyctf 2025
 date: 2025-6-15 00:00 -0500
