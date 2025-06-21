@@ -5,7 +5,6 @@ description: My writeup for the misc/sky challenge in SmileyCTF 2025
 category:
 - Writeups
 tags:
-- writeup
 - misc
 - smileyctf 2025
 date: 2025-6-15 00:01 -0500
