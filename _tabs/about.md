@@ -17,46 +17,46 @@ I created this website to share my ideas, experiences, and writeups with others.
 You can contact me via email at `srhyne0516@gmail.com` if you have any questions, comments, suggestions, etc. I hope you enjoy reading my blog, and that you learn something from it.
 
 
-# Competitions
+## Competitions
 Here is an exhaustive list of cyber competitions I've done from most to least recent, and my place in each.
 
-### BCA CTF 6.0: *Sytnax Error* - 975 points
+#### BCA CTF 6.0: [*Sytnax Error*](https://play.bcactf.com/teams/70) - 975 points
 * 76th Overall (of 276 teams)
 
-### cornCTF 2025: *Sytnax Error* - 60 points
+#### cornCTF 2025: [*Sytnax Error*](https://play.cornc.tf/users/105) - 60 points
 * 76th Overall (of 269 teams)
 
-### IERAE CTF 2025: *Sytnax Error* - 398 points
+#### IERAE CTF 2025: [*Sytnax Error*](https://ierae-ctf.com/scoreboard) - 398 points
 * 249th Overall (of 538 teams)
 
-### GPN CTF 2025: *Sytnax Error* - 120 points
+#### GPN CTF 2025: [*Sytnax Error*](https://gpn23.ctf.kitctf.de/scoreboard) - 120 points
 * 334th Overall (of 1065 teams)
 
-### SmileyCTF 2025: *Sytnax Error* - 110 points
+#### SmileyCTF 2025: [*Sytnax Error*](https://play.ctf.gg/profile/eYPIor_XVEJ2xog7iLugF) - 110 points
 * 457th Overall (of 1090 teams)
 
-### CHCTF 2025: *Sytnax Error*
+#### CHCTF 2025: *Sytnax Error*
 * 2nd Overall
 
-### LBC2 2025: *Sytnax Error*
+#### LBC2 2025: *Sytnax Error*
 * 1st in Beginner
 
-### PicoCTF 2025: *Sytnax Error* - 1335 points
+#### PicoCTF 2025: [*Sytnax Error*](https://play.picoctf.org/teams/15354) - 1335 points
 * 216th in US Middle/High School (of 1817 teams)
 * 1930th in Global (of 10,460 teams)
 
-### CyberPatriot 17: *pbchocolate*
+#### CyberPatriot 17: [*pbchocolate*](https://www.uscyberpatriot.org/Documents/CP17_Program_2025_web.pdf#page=11)
 * National Finalist, Open Division
 * 10th in Open Division (of 2890 teams)
 
-### CHCTF 2025: *Cyber Lions*
+#### CHCTF 2025: *Cyber Lions*
 * 1st in Middle School
 * 4th Overall
 
-### LBC2 2024: *Cyber Lions*
+#### LBC2 2024: *Cyber Lions*
 * 8th in Beginner
 
-### PicoCTF 2024: *Cyber Lions* - 1525 points
+#### PicoCTF 2024: [*Cyber Lions*](https://play.picoctf.org/teams/9972) - 1525 points
 * 21st in US Middle School (of 154 teams)
 * 255th in US Middle/High School (of 2268 teams)
 * 2100th in Global (of 11,517 teams)
