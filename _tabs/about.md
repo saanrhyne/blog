@@ -14,7 +14,7 @@ I created this website to share my ideas, experiences, and writeups with others.
 * I compete in CyberPatriot and CTF competitions, and was a CyberPatriot National Finalist in the 2024-25 season
 * I train in Seido karate, where I am a brown belt, and I have a junior black belt in Jiu Jitsu
 
-You can contact me via email at [`srhyne0516@gmail.com`](mailto:srhyne0516@gmail.com) if you have any questions, comments, suggestions, etc. I hope you enjoy reading my blog, and that you learn something from it.
+You can contact me via email at `srhyne0516@gmail.com` if you have any questions, comments, suggestions, etc. I hope you enjoy reading my blog, and that you learn something from it.
 
 
 # Competitions
