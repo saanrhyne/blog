@@ -18,7 +18,7 @@ Our team isn't exactly what you would think of as a nationals-caliber team. We d
 
 Only two of our team members are in that program, and three of us had never done CyberPatriot before. We come from a public high school, in a county with a severe budget deficit, had no funding from the
 school, and didn't even have a real coach due to budget cuts. One of our parents, who has no background in cybersecurity, stepped up to lead the program. No team from our school had ever made nationals before (or came
-close). All we had was grit, and a whole lot of motivation by our team captain (checkout his website: [sakouk.me](https://sakouk.me/)).
+close). All we had was grit, and a whole lot of motivation by our team captain (check out his website: [sakouk.me](https://sakouk.me/)).
 
 I want to emphasize that we aren't complaining about this. Challenges make you stronger. This is simply to show that anyone can succeed; you don't need to be from the fanciest schools
 with the best programs, you just need to work hard.
