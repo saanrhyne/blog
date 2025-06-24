@@ -6,6 +6,7 @@ category:
 - CyberPatriot
 tags:
 - nationals
+- cyberpatriot
 date: 2025-3-17 00:00 -0500
 ---
 
@@ -22,6 +23,10 @@ close). All we had was grit, and a whole lot of motivation by our team captain (
 
 I want to emphasize that we aren't complaining about this. Challenges make you stronger. This is simply to show that anyone can succeed; you don't need to be from the fanciest schools
 with the best programs, you just need to work hard.
+
+![Photo of Our Team at Nationals](/assets/img/nats.jpg)
+
+Our Team!
 
 
 ## What?
