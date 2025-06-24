@@ -9,7 +9,7 @@ Howdy! My name is Saan Rhyne, and I am a high school sophomore from the great st
 I created this website to share my ideas, experiences, and writeups with others. This website will mainly focus on cyber-related topics, and there may be some posts generally relating to high school.
 
 * I am interested in cybersecurity and public policy, and hope to dual major in those fields in college
-* I would like to work for the government in intelligence, or in another role where I can serve my fellow Americans
+* I would like to work for the government, or in another role where I can serve my fellow Americans
 * I am involved in student council on the county and state level
 * I compete in CyberPatriot and CTF competitions, and was a CyberPatriot National Finalist in the 2024-25 season
 * I train in Seido karate, where I am a brown belt, and I have a junior black belt in Jiu Jitsu
