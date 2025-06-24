@@ -5,7 +5,6 @@ description: That still feels weird to say
 category:
 - CyberPatriot
 tags:
-- nationals
 - cyberpatriot
 date: 2025-3-17 00:00 -0500
 ---
