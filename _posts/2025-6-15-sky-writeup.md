@@ -18,7 +18,7 @@ date: 2025-6-15 00:01 -0500
 We are given a photo of a palm tree, a bit of a building, and some sail shades. The palm tree and sail shades indicated it was somewhere warm and sunny, probably Florida or California. The architecture and coloring of the
 building in the right looked a bit more like a Californian villa to me. My first thought was just reverse image search.
 
-<img src="https://github.com/saanrhyne/saanrhyne.github.io/blob/main/assets/img/sky1.png" alt="Image Attachment for the Challenge" style="width:300px;"/>
+<img src="/assets/img/sky1.png" alt="Image Attachment for the Challenge" style="width:300px;"/>
 
 
 ## Methodology
@@ -34,7 +34,7 @@ with another team member saying "I think it's in Westfield UTC mall." He said he
 ## Solution
 I googled "Westfield UTC Mall Lat Long" and tried a few different results in the coordinate input server, and 32.871274, -117.210659 worked, getting us our 3rd solve of the competition.
 
-![Screenshot of Inputting Coordinates into Checker](https://github.com/saanrhyne/saanrhyne.github.io/blob/main/assets/img/sky2.png)
+![Screenshot of Inputting Coordinates into Checker](/assets/img/sky2.png)
 
 The flag is: .;,;.{g00gl3_ai_th1nks_th3s3_pr0duc3_r3n3w3bl3_3n3rgy_1ma0}
 
