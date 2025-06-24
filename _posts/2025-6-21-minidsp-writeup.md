@@ -19,7 +19,7 @@ We are given an ELF binary entitled "FUUUNNN_SURLEY". My first thought was to pu
 ## Methodology
 I uploaded it into Binary Ninja, and scrolled through. At the very bottom,  there was the flag.
 
-![Binary Ninja Screenshot of the Flag](https://github.com/saanrhyne/saanrhyne.github.io/blob/main/assets/img/minidsp.png)
+![Binary Ninja Screenshot of the Flag](/assets/img/minidsp.png)
 
 ## Solution
 The flag is **GPNCTF{yOu_reaLlY_KNow_yOur_iN5TRument5_Now_PR_iT_TO_GHIDR4}**.
