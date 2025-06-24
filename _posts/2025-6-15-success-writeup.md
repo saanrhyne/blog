@@ -16,6 +16,9 @@ date: 2025-6-15 00:00 -0500
 ## Initial Thoughts
 We are given a script in .hs, which I learned meant Haskell Script. According to [FileFormat.com](https://docs.fileformat.com/programming/hs/), Haskell is an advanced purely-functional open-source programming language. I did a bit of research, and some ChatGPT-ing to understand the syntax, because who likes reading docs? (spoiler alert: nobody). It seemed to be essentially a logic challenge, you just needed to figure out which values fit the long list of instructions.
 
+<img alt="Screenshot of the Initial Script" src="/assets/img/success1.png" width="41%"/> <img alt="Second Screenshot of the Initial Script" src="/assets/img/success2.png" width="50%"/>
+
+
 ## Methodology
 I converted the script into python code. My idea was to have the script generate random ASCII characters for each part of the flag that we didn't know already, and then check that against the rules. If a rule was matched, I would make that character permanently in that spot, and remove that rule. This seems a bit random, but there was some logic (albeit convoluted) behind it, and it did end up working. I knew it the flag was 39 characters and the format was .;,;.{flag}, so I knew the characters at indices 0-5 and 38. I commented out any rules that didn't involve one of those characters, so that any matches would be verified. I ran the script repeatedly until I got ".;,;.{ipaeine_if_i_made_it_cogpiled!! }".
 
