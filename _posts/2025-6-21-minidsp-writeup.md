@@ -17,7 +17,7 @@ date: 2025-6-21 00:00 -0500
 We are given an ELF binary entitled "FUUUNNN_SURLEY". My first thought was to put it into a compiler and poke around.
 
 ## Methodology
-I uploaded it into Binary Ninja, and scrolled through. At the very bottom,  there was the flag.
+I uploaded it into [Binary Ninja](https://binary.ninja/), which is what I use for a lot of these challenges because its easy to install and use (IDA license key setup is confusing and Ghidra looks scary), and scrolled through. At the very bottom, there was the flag.
 
 ![Binary Ninja Screenshot of the Flag](/assets/img/minidsp.png)
 
