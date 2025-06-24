@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 1
 ---
 
 Howdy! My name is Saan Rhyne, and I am a high school sophomore from the great state of Maryland.
