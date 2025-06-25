@@ -113,6 +113,4 @@ This had the script run until a check was passed, and then I was able to figure 
 That isn't all of my script (I removed a lot of the checks for brevity, you get the point), and it was changed and had lines deleted or commented out a lot during this process, so I don't have a "final" or "full" version. There was some vibe-coding involved for the format_char function and some of the more repetitive tasks that I was too lazy to do (ie. putting print("Check # passed") after each if statement), but the logic and actual execution was all me.
 
 ## Solution
-The flag is **.;,;.{imagine_if_i_made_it_compiled!!!}**.
-
-This was the first challenge I solved (excluding sanity check) , and I was quite happy with myself, especially considering I didn't expect to solve any challenges during this CTF.
+The flag is `.;,;.{imagine_if_i_made_it_compiled!!!}`. This was the first challenge I solved (excluding sanity check) , and I was quite happy with myself, especially considering I didn't expect to solve any challenges during this CTF.
