@@ -45,7 +45,7 @@ Below is a chronological list of cyber competitions I’ve participated in, alon
 * My writeups can be found [here](/tags/smileyctf-2025/)
 
 #### CHCTF 2025: *Sytnax Error*
-* 2nd Overall (of ~12 teams)
+* 2nd Overall (of ~20 teams)
 * In-Person Competition
 
 #### LBC2 2025: *Sytnax Error*
@@ -62,7 +62,7 @@ Below is a chronological list of cyber competitions I’ve participated in, alon
 
 #### CHCTF 2024: *Cyber Lions*
 * 1st in Middle School (of 2 teams)
-* 4th Overall (of ~12 teams)
+* 4th Overall (of ~15 teams)
 * In-Person Competition
 
 #### LBC2 2024: *Cyber Lions*
