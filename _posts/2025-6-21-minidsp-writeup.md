@@ -2,7 +2,7 @@
 layout: post
 title: MiniDSP Writeup - GPN CTF 2025
 description: My writeup for the rev/MiniDSP challenge in GPN CTF 2025
-image: "/assets/img/minidsp1.png"
+image: "/assets/img/minidsp0.png"
 category:
 - Writeups
 tags:
