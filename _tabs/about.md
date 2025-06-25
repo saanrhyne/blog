@@ -45,11 +45,11 @@ Below is a chronological list of cyber competitions I’ve participated in, alon
 * My writeups can be found [here](/tags/smileyctf-2025/)
 
 #### CHCTF 2025: *Sytnax Error*
-* 2nd Overall (of ~20 teams)
+* 2nd Overall (of ~12 teams)
 * In-Person Competition
 
 #### LBC2 2025: *Sytnax Error*
-* 1st in Beginner (of ~ teams)
+* 1st in Beginner (of 41 teams)
 * In-Person Competition
 
 #### PicoCTF 2025: [*Sytnax Error*](https://play.picoctf.org/teams/15354) - 1335 points
@@ -60,13 +60,13 @@ Below is a chronological list of cyber competitions I’ve participated in, alon
 * National Finalist, Open Division
 * 10th in Open Division (of 2890 teams)
 
-#### CHCTF 2025: *Cyber Lions*
+#### CHCTF 2024: *Cyber Lions*
 * 1st in Middle School (of 2 teams)
 * 4th Overall (of ~12 teams)
 * In-Person Competition
 
 #### LBC2 2024: *Cyber Lions*
-* 8th in Beginner (of ~ teams)
+* 8th in Beginner (of 31 teams)
 * In-Person Competition
 
 #### PicoCTF 2024: [*Cyber Lions*](https://play.picoctf.org/teams/9972) - 1525 points
