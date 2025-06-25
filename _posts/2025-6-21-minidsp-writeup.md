@@ -22,4 +22,4 @@ I uploaded it into [Binary Ninja](https://binary.ninja/), which is what I use fo
 ![Binary Ninja Screenshot of the Flag](/assets/img/minidsp.png)
 
 ## Solution
-The flag is **GPNCTF{yOu_reaLlY_KNow_yOur_iN5TRument5_Now_PR_iT_TO_GHIDR4}**.
+The flag is `GPNCTF{yOu_reaLlY_KNow_yOur_iN5TRument5_Now_PR_iT_TO_GHIDR4}`. This was a pretty simple challenge, and I wish I had more time to explore the rev challenges. I was doing 3 other CTFs at the same time as this one, so it was a bit hectic.
