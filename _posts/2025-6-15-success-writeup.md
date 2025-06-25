@@ -2,6 +2,7 @@
 layout: post
 title: Success Writeup - SmileyCTF 2025
 description: My writeup for the rev/Success challenge in SmileyCTF 2025
+image: "/assets/img/success1.png"
 category:
 - Writeups
 tags:
