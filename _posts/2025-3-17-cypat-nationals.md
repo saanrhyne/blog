@@ -2,10 +2,15 @@
 layout: post
 title: I'm a CyberPatriot National Finalist
 description: That still feels weird to say
+image: "/assets/img/nats0.png"
+
+authors:
+- Saan
 category:
 - CyberPatriot
 tags:
 - cyberpatriot
+
 date: 2025-3-17 00:00 -0500
 ---
 
@@ -23,7 +28,7 @@ close). All we had was grit, and a whole lot of motivation by our team captain (
 I want to emphasize that we aren't complaining about this. Challenges make you stronger. This is simply to show that anyone can succeed; you don't need to be from the fanciest schools
 with the best programs, you just need to work hard.
 
-![Photo of Our Team at Nationals](/assets/img/nats.jpg)
+![Photo of Our Team at Nationals](/assets/img/nats1.jpg)
 
 Our Team!
 
