@@ -8,7 +8,7 @@ category:
 tags:
 - misc
 - smileyctf 2025
-date: 2025-6-15 00:01 -0500
+date: 2025-6-15 00:02 -0500
 ---
 
 # misc/sky - smashmaster
