@@ -26,10 +26,6 @@ close). All we had was grit, and a whole lot of motivation by our team captain (
 I want to emphasize that we aren't complaining about this. Challenges make you stronger. This is simply to show that anyone can succeed; you don't need to be from the fanciest schools
 with the best programs, you just need to work hard.
 
-![Photo of Our Team at Nationals](/assets/img/nats1.jpg)
-
-Our Team!
-
 
 ## What?
 The Air Force Association's National Youth Cyber Defense Competition, commonly referred to as CyberPatriot, is the nation's largest cyber defense competition that puts high school and middle school students in charge of
