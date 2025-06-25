@@ -4,21 +4,25 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-Howdy! My name is Saan Rhyne, and I am a high school sophomore from the great state of Maryland.
+Howdy! My name is Saan Rhyne, and I am a high school sophomore from the great state of Maryland with a passion for cybersecurity and public policy.
 
 I created this website to share my ideas, experiences, and writeups with others. This website will mainly focus on cyber-related topics, and there may be some posts generally relating to high school.
 
-* I am interested in cybersecurity and public policy, and hope to dual major in those fields in college
-* I would like to work for the government, or in another role where I can serve my fellow Americans
-* I am involved in student council on the county and state level
+* I hope to dual major in cybersecurity and public policy in college
+* I would like to serve my fellow Americans through a role in government or service
+* I am involved in student leadership and advocacy on the county and state level
 * I compete in CyberPatriot and CTF competitions, and was a CyberPatriot National Finalist in the 2024-25 season
-* I train in Seido karate, where I am a brown belt, and I have a junior black belt in Jiu Jitsu
+* I train in Seido karate, where I am a brown belt, and hold a junior black belt in Jiu Jitsu
+
+One of my guiding principles, taken from the muscial *Hamilton*, is:
+> "God help and forgive me, I wanna build something that's gonna outlive me."
 
 You can contact me via email at `srhyne0516@gmail.com` if you have any questions, comments, suggestions, etc. I hope you enjoy reading my blog, and that you learn something from it.
 
+---
 
 ## Competitions
-Here is an exhaustive list of cyber competitions I've done from most to least recent, and my place in each.
+Below is a chronological list of cyber competitions I’ve participated in, along with scores and placements. The team name links to our individual profile for the event, if there was one.
 
 #### BCA CTF 6.0: [*Sytnax Error*](https://play.bcactf.com/teams/70) - 975 points
 * 76th Overall (of 276 teams)
@@ -27,11 +31,11 @@ Here is an exhaustive list of cyber competitions I've done from most to least re
 #### cornCTF 2025: [*Sytnax Error*](https://play.cornc.tf/users/105) - 60 points
 * 76th Overall (of 269 teams)
 
-#### IERAE CTF 2025: [*Sytnax Error*](https://ierae-ctf.com/scoreboard) - 398 points
+#### IERAE CTF 2025: *Sytnax Error* - 398 points
 * 249th Overall (of 538 teams)
 * Writeups in progress
 
-#### GPN CTF 2025: [*Sytnax Error*](https://gpn23.ctf.kitctf.de/scoreboard) - 120 points
+#### GPN CTF 2025: *Sytnax Error* - 120 points
 * 334th Overall (of 1065 teams)
 * My writeups can be found [here](/tags/gpn-ctf-2025/)
 
