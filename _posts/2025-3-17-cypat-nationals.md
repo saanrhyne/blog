@@ -2,10 +2,8 @@
 layout: post
 title: I'm a CyberPatriot National Finalist
 description: That still feels weird to say
-image: "/assets/img/nats0.png"
+image: "/assets/img/nats1.jpg"
 
-authors:
-- Saan
 category:
 - CyberPatriot
 tags:
