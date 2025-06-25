@@ -19,7 +19,7 @@ We are given an ELF binary entitled "FUUUNNN_SURLEY". My first thought was to pu
 ## Methodology
 I uploaded it into [Binary Ninja](https://binary.ninja/), which is what I use for a lot of these challenges because its easy to install and use (IDA license key setup is confusing and Ghidra looks scary), and scrolled through. At the very bottom, there was the flag.
 
-![Binary Ninja Screenshot of the Flag](/assets/img/minidsp.png)
+![Binary Ninja Screenshot of the Flag](/assets/img/minidsp1.png)
 
 ## Solution
 The flag is `GPNCTF{yOu_reaLlY_KNow_yOur_iN5TRument5_Now_PR_iT_TO_GHIDR4}`. This was a pretty simple challenge, and I wish I had more time to explore the rev challenges. I was doing 3 other CTFs at the same time as this one, so it was a bit hectic.
