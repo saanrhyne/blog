@@ -15,9 +15,10 @@ I created this website to share my ideas, experiences, and writeups with others.
 * I train in Seido karate, where I am a brown belt, and hold a junior black belt in Jiu Jitsu
 
 One of my guiding principles, taken from the muscial *Hamilton*, is:
+
 > "God help and forgive me, I wanna build something that's gonna outlive me."
 
-You can contact me via email at `srhyne0516@gmail.com` if you have any questions, comments, suggestions, etc. I hope you enjoy reading my blog, and that you learn something from it.
+Feel free to contact me via email at `srhyne0516@gmail.com` if you want to discuss cybersecurity, public policy, high school, or anything related to me or this website. I hope you enjoy reading my blog, and that you learn something from it. Have a great day!
 
 ---
 
@@ -44,11 +45,11 @@ Below is a chronological list of cyber competitions I’ve participated in, alon
 * My writeups can be found [here](/tags/smileyctf-2025/)
 
 #### CHCTF 2025: *Sytnax Error*
-* 2nd Overall
+* 2nd Overall (of ~20 teams)
 * In-Person Competition
 
 #### LBC2 2025: *Sytnax Error*
-* 1st in Beginner
+* 1st in Beginner (of ~ teams)
 * In-Person Competition
 
 #### PicoCTF 2025: [*Sytnax Error*](https://play.picoctf.org/teams/15354) - 1335 points
@@ -60,12 +61,12 @@ Below is a chronological list of cyber competitions I’ve participated in, alon
 * 10th in Open Division (of 2890 teams)
 
 #### CHCTF 2025: *Cyber Lions*
-* 1st in Middle School
-* 4th Overall
+* 1st in Middle School (of 2 teams)
+* 4th Overall (of ~12 teams)
 * In-Person Competition
 
 #### LBC2 2024: *Cyber Lions*
-* 8th in Beginner
+* 8th in Beginner (of ~ teams)
 * In-Person Competition
 
 #### PicoCTF 2024: [*Cyber Lions*](https://play.picoctf.org/teams/9972) - 1525 points
