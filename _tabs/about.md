@@ -34,6 +34,7 @@ Here is an exhaustive list of cyber competitions I've done from most to least re
 
 #### SmileyCTF 2025: [*Sytnax Error*](https://play.ctf.gg/profile/eYPIor_XVEJ2xog7iLugF) - 110 points
 * 457th Overall (of 1090 teams)
+* My writeups can be found [here](/tags/smileyctf-2025/)
 
 #### CHCTF 2025: *Sytnax Error*
 * 2nd Overall
