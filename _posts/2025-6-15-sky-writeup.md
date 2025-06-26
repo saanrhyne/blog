@@ -3,6 +3,7 @@ layout: post
 title: Sky Writeup - SmileyCTF 2025
 description: My writeup for the Misc/Sky challenge in SmileyCTF 2025
 image: "/assets/img/sky0.png"
+comments: true
 
 categories:
 - Writeups
