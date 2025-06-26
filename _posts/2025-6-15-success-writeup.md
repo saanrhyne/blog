@@ -3,7 +3,6 @@ layout: post
 title: Success Writeup - SmileyCTF 2025
 description: My writeup for the Rev/Success challenge in SmileyCTF 2025
 image: "/assets/img/success0.png"
-comments: true
 
 categories:
 - Writeups
@@ -11,7 +10,7 @@ categories:
 tags:
 - Rev
 
-date: 2025-6-15 00:00 -0500
+date: 2025-6-15 00:01 -0500
 ---
 
 # Rev/Success - Flocto
