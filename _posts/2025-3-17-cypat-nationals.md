@@ -3,7 +3,6 @@ layout: post
 title: I'm a CyberPatriot National Finalist
 description: That still feels weird to say
 image: "/assets/img/nats1.jpg"
-comments: true
 
 categories:
 - Cyberpatriot
