@@ -3,9 +3,9 @@ layout: post
 title: Intro to Web (Part 1) Writeup - GPN CTF 2025
 description: My writeup for the web/Intro to Web (Part 1) challenge in GPN CTF 2025
 image: "/assets/img/introweb0.png"
-category:
-- Writeups
+
 tags:
+- writeup
 - web
 - gpn ctf 2025
 date: 2025-6-21 00:01 -0500
