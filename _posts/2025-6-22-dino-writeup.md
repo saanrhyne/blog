@@ -2,7 +2,7 @@
 layout: post
 title: DiNo. 1 Writeup - IERAE CTF 2025
 description: My writeup for the misc/DiNo. 1 challenge in IERAE CTF 2025
-image: "/assets/img/dino1.png"
+image: "/assets/img/dino0.png"
 category:
 - Writeups
 tags:
