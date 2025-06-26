@@ -1,0 +1,10 @@
+layout: page
+# The Category layout
+---
+<div id="page-category">
+  <h1 class="ps-lg-2">
+                  <!-- categories -->
+                  {% if post.categories.size > 0 %}
+                    <span class="categories">
+                      {% for category in post.categories %}
+                        {{ category }}
