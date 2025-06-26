@@ -18,7 +18,7 @@ date: 2025-6-23 00:06 -0500
 
 ## Initial Thoughts
 We are given a file entitled `brainrot.skibidi`, which is really just a .txt file. It contains the following:
-```skibidi
+```
 gyatt gyatt grimaceshake gyatt gyatt gyatt gyatt gyatt skibidi sigma rizz fanumtax skibidi gyatt gyatt
 gyatt gyatt ohio sigma ohio gyatt gyatt ohio sigma sigma ohio gyatt grimaceshake gyatt gyatt gyatt
 skibidi sigma rizz fanumtax skibidi gyatt gyatt ohio sigma sigma sigma grimaceshake gyatt skibidi sigma
@@ -78,7 +78,7 @@ I used Google Docs and the Find and Replace feature (not the most 'techy' soluti
 
 After doing that, I had:
 
-```brainflakes
+```
  - - [ - - - - - > + < ] > - - - - . + . - - . + + . - [ - - - > + < ] > - - . + + + [ - > + + + <
 ] > + . + [ - - - - - > + < ] > . - [ + + > - - - < ] > - - . - - - - . + + + + + . [ - > + + < ]
 > + . - [ - - > + < ] > - - . - - - - [ - > + + < ] > - . - [ - > + + + + + + < ] > + . - - - - .
