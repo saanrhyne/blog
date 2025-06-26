@@ -6,6 +6,7 @@ image: "/assets/img/introweb0.png"
 categories:
 - Writeups
 - GPN CTF 2025
+comments: true
 
 tags:
 - Web
