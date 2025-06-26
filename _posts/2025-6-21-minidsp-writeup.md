@@ -1,17 +1,17 @@
 ---
 layout: post
 title: MiniDSP Writeup - GPN CTF 2025
-description: My writeup for the rev/MiniDSP challenge in GPN CTF 2025
+description: My writeup for the Rev/MiniDSP challenge in GPN CTF 2025
 image: "/assets/img/minidsp0.png"
-
+categories:
+- Writeups
+- GPN CTF 2025
 tags:
-- writeup
-- rev
-- gpn ctf 2025
+- Rev
 date: 2025-6-21 00:00 -0500
 ---
 
-# rev/MiniDSP - s1nn105
+# Rev/MiniDSP - s1nn105
 *I found this compiler, I compiled this code, now I am confused. I hope you are as well. Note that the code might be broken.*
 
 ## Initial Thoughts
