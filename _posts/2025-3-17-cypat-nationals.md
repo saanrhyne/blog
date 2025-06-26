@@ -4,8 +4,8 @@ title: I'm a CyberPatriot National Finalist
 description: That still feels weird to say
 image: "/assets/img/nats1.jpg"
 
-tags:
-- cyberpatriot
+categories:
+- Cyberpatriot
 
 date: 2025-3-17 00:00 -0500
 ---
