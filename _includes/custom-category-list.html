@@ -1,7 +1,4 @@
-{% assign base_path = '/categories/' %}
-{% if page.url == '/topics/' %}
-  {% assign base_path = '/topics/' %}
-{% endif %}
+{% assign base_path = '/topics/' %}
 
 {% for category in site.categories %}
   <a href="{{ site.baseurl }}{{ base_path }}{{ category[0] | slugify | url_encode }}/">
