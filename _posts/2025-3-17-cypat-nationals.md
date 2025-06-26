@@ -4,8 +4,6 @@ title: I'm a CyberPatriot National Finalist
 description: That still feels weird to say
 image: "/assets/img/nats1.jpg"
 
-category:
-- CyberPatriot
 tags:
 - cyberpatriot
 
