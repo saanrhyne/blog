@@ -9,7 +9,7 @@ categories:
 
 tags:
 - Web
-date: 2025-6-21 00:01 -0500
+date: 2025-6-21 00:02 -0500
 ---
 
 # Web/Intro to Web (Part 1) - Finn, Vurlo
