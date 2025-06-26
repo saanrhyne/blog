@@ -1,0 +1,7 @@
+tabs:
+  categories: Topics
+
+categories:
+  category_measure: "Topic"
+  posts_label: "Posts in topic"
+  label: "Topics"
