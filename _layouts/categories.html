@@ -1,6 +1,9 @@
----
-layout: default
----
+{% assign base_path = "/categories/" %}
+{% assign label_text = "Categories" %}
+{% if page.url == "/topics/" %}
+  {% assign base_path = "/topics/" %}
+  {% assign label_text = "Topics" %}
+{% endif %}
 
 <h1>{{ page.title }}</h1>
 
