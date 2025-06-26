@@ -1,17 +1,18 @@
 ---
 layout: post
 title: Intro to Web (Part 1) Writeup - GPN CTF 2025
-description: My writeup for the web/Intro to Web (Part 1) challenge in GPN CTF 2025
+description: My writeup for the Web/Intro to Web (Part 1) challenge in GPN CTF 2025
 image: "/assets/img/introweb0.png"
+categories:
+- Writeups
+- GPN CTF 2025
 
 tags:
-- writeup
-- web
-- gpn ctf 2025
+- Web
 date: 2025-6-21 00:01 -0500
 ---
 
-# web/Intro to Web (Part 1) - finn, vurlo
+# Web/Intro to Web (Part 1) - Finn, Vurlo
 *5 vulns, 5 stages - can you find them all?*
 
 ## Initial Thoughts
