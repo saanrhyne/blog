@@ -6,11 +6,10 @@ image: "/assets/img/introweb0.png"
 categories:
 - Writeups
 - GPN CTF 2025
-comments: true
 
 tags:
 - Web
-date: 2025-6-21 00:02 -0500
+date: 2025-6-21 00:00 -0500
 ---
 
 # Web/Intro to Web (Part 1) - Finn, Vurlo
