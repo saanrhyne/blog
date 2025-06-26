@@ -15,15 +15,15 @@ Below is a chronological list of cyber competitions I’ve participated in, alon
 
 ### IERAE CTF 2025: *Sytnax Error* - 398 points
 * 249th Overall (of 538 teams)
-* Writeups in progress
+* My writeups can be found [here](/categories/ierae-ctf-2025/)
 
 ### GPN CTF 2025: *Sytnax Error* - 120 points
 * 334th Overall (of 1065 teams)
-* My writeups can be found here
+* My writeups can be found [here](/categories/gpn-ctf-2025/)
 
 ### SmileyCTF 2025: [*Sytnax Error*](https://play.ctf.gg/profile/eYPIor_XVEJ2xog7iLugF) - 110 points
 * 457th Overall (of 1090 teams)
-* My writeups can be found here
+* My writeups can be found [here](/categories/smileyctf-2025/)
 
 ### CHCTF 2025: *Sytnax Error*
 * 2nd Overall (of ~20 teams)
