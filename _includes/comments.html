@@ -1,1 +1,12 @@
-<!-- dummy comments file to prevent build error this is so annoying why won't it work like it was before -->
+{% if page.comments %}
+<section class="comments">
+  <div id="cusdis_thread"
+       data-host="https://cusdis.com"
+       data-app-id="d538d711-895b-43c3-bf68-faf6f4e2ef97"
+       data-page-id="{{ page.id }}"
+       data-page-url="{{ page.url | absolute_url }}"
+       data-page-title="{{ page.title }}">
+  </div>
+  <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+</section>
+{% endif %}
