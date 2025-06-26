@@ -11,7 +11,6 @@ script_includes:
 ---
 
 {% include lang.html %}
-
 {% include toc-status.html %}
 
 <article class="px-1" data-toc="{{ enable_toc }}">
@@ -131,7 +130,7 @@ script_includes:
     {% if page.categories.size > 0 %}
       <div class="post-meta mb-3">
         <i class="far fa-folder-open fa-fw me-1"></i>
-        {% include custom-category-list.html %}
+        {% for category in page.categories %}
           <a href="{{ site.baseurl }}/categories/{{ category | slugify | url_encode }}/">{{ category }}</a>
           {%- unless forloop.last -%},{%- endunless -%}
         {% endfor %}
@@ -162,11 +161,10 @@ script_includes:
       <div class="license-wrapper">
         {% if site.data.locales[lang].copyright.license.template %}
           {% capture _replacement %}
-        <a href="{{ site.data.locales[lang].copyright.license.link }}">
-          {{ site.data.locales[lang].copyright.license.name }}
-        </a>
-        {% endcapture %}
-
+            <a href="{{ site.data.locales[lang].copyright.license.link }}">
+              {{ site.data.locales[lang].copyright.license.name }}
+            </a>
+          {% endcapture %}
           {{ site.data.locales[lang].copyright.license.template | replace: ':LICENSE_NAME', _replacement }}
         {% endif %}
       </div>
