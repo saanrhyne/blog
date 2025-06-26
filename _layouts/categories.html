@@ -6,7 +6,7 @@
   {% endif %}
 
   {% for category in site.categories %}
-    <a href="{{ site.baseurl }}{{ base_path }}{{ category[0] | slugify | url_encode }}/">
+    <a href="{{ site.baseurl }}{{ base_path }}{{ category[0] | slugify | url_encode }}/" class="category-link">
       {{ category[0] }}
     </a>
     {% unless forloop.last %}, {% endunless %}
