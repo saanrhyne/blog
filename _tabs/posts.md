@@ -1,5 +1,5 @@
 ---
 layout: archives
-icon: fas fa-archive
-order: 2
+icon: fas fa-book
+order: 3
 ---
