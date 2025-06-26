@@ -1,17 +1,20 @@
 ---
 layout: post
 title: Sky Writeup - SmileyCTF 2025
-description: My writeup for the misc/sky challenge in SmileyCTF 2025
+description: My writeup for the Misc/Sky challenge in SmileyCTF 2025
 image: "/assets/img/sky0.png"
 
+Categories:
+- Writeups
+- SmileyCTF 2025
+
 tags:
-- misc
-- writeup
-- smileyctf 2025
+- Misc
+
 date: 2025-6-15 00:01 -0500
 ---
 
-# misc/sky - smashmaster
+# Misc/Sky - Smashmaster
 *look at the sky, what do you see? a bird? a plane? no, its a challenge about the sky! (autocomplete wrote everything after the first 4 words)*
 
 
