@@ -10,6 +10,7 @@ tags:
 - Rev
 date: 2025-6-21 00:01 -0500
 ---
+comments: true
 
 # Rev/MiniDSP - S1nn105
 *I found this compiler, I compiled this code, now I am confused. I hope you are as well. Note that the code might be broken.*
