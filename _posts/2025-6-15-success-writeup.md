@@ -35,7 +35,7 @@ This obviously wasn't right, so I would comment out some lines that hardcoded ch
 ## Script
 Here's my script in more detail:
 
-```
+```python
 import random
 from operator import or_, and_, xor
 
@@ -48,7 +48,7 @@ def format_char(i):
 ```
 Setting up imports and random stuff
 
-```
+```python
 def run():
     global passed, chars  # Fix scope issues
 
@@ -73,7 +73,7 @@ def run():
 ```
 Creating the chars list and hardcoding the known indices that I got from running the script previously.
 
-```
+```python
     if chars[11] * chars[7] == 11990:
         print(f"Check 8 passed: {format_char(11)}, {format_char(7)}")
         passed = True
@@ -104,7 +104,7 @@ Creating the chars list and hardcoding the known indices that I got from running
 ```
 The checks that were commented out involved two indices that I didn't have either of, so if they passed it would be random and probably incorrect. For simplicity, I commented them out until I got one of the characters involved in the check.
 
-```
+```python
     if passed == True:
         print(''.join(chr(c) for c in chars))
 
