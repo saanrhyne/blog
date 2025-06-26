@@ -2,7 +2,7 @@
 layout: post
 title: Rev Rev Rev Writeup - IERAE CTF 2025
 description: My writeup for the Rev/Rev Rev Rev challenge in IERAE CTF 2025
-image: "/assets/img/dino0.png"
+image: "/assets/img/revrevrev0.png"
 
 categories:
 - Writeups
@@ -69,16 +69,8 @@ All we have to do is write a script that does the opposite of each of these line
 
 ## Script
 
-```python
-enc = [-246, -131, -204, -199, -159, -203, -201, -207, -199, -159, -204, -158, -155, -205, -211,
-      -206, -201, -206, -205, -211, -158, -159, -207, -202, -211, -199, -206, -155, -206, -211,
-      -204, -200, -200, -200, -203, -208, -159, -199, -133, -187, -191, -174, -187, -183]
-z = [~i for i in enc]
-y = [i^0xff for i in z]
-y.reverse()
-x = [chr(c) for c in y]
-print(''.join(x))
-```
+![Image of my full script](/assets/img/revrevrev2.png)
+
 This is my full solution script
 
 
@@ -115,4 +107,6 @@ print(''.join(x))
 Finally, we join the list together, getting our flag.
 
 ## Solution
-The flag is `IERAE{9a058884-2e29-61ab-3272-3eb4a9175a94}`. This was a pretty simple and fun rev challenge.
+![Image of solution](/assets/img/revrevrev3.png)
+
+The flag is `IERAE{9a058884-2e29-61ab-3272-3eb4a9175a94}`. This was a pretty simple and fun rev challenge, and I liked how it focused on involutive functions.
