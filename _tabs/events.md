@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-icon: fas fa-web-awesome
+icon: fas fa-trophy
 order: 2
 ---
 
