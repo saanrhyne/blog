@@ -17,9 +17,25 @@ date: 2025-6-23 00:05 -0500
 *Can you help find my flag? I tried asking around but all I found was this poem.*
 
 ## Initial Thoughts
-We are given `hiding_in_plain_sight.pdf`, which contains a lovely poem:
+We are given `hiding_in_plain_sight.pdf`, which contains a lovely poem: *Hiding in Plain Sight by Denise Riley*
 
-<img src="/assets/img/plainsight1.png" height=200px> <img src="/assets/img/plainsight2.png" height=200px> <img src="/assets/img/plainsight3.png" height=200px>
+```
+I try to find you, yet you are not here.
+I’ve studied absence, fought to fill it in –
+courage comes easier with a grasp of why.
+A secret’s camouflaged when unconcealed.
+I chose to not see/saw the thing too near?
+Absence turns thicker, muscled by its strain.
+A moon in daylight, whitest blue on blue,
+surprises briefly, to appear surreal
+until it slips to rights. I couldn’t spot
+the obvious – obviam, in the way; plain
+sight goes blind through chasing clarity.
+I looked for you, so couldn’t see you gone.
+I sensed your not-there in its burning life.
+I listened out to feel its silence beat.
+It does not speak with any human mouth.
+```
 
 My first thought was, like the [Dessert Time](/posts/desserttime-writeup/) challenge, to check for hidden text. Unfortunately, I found none.
 
