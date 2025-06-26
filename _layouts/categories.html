@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 {% assign base_path = "/categories/" %}
 {% assign label_text = "Categories" %}
 {% if page.url == "/topics/" %}
@@ -5,27 +9,16 @@
   {% assign label_text = "Topics" %}
 {% endif %}
 
----
-layout: default
----
+<div class="categories-page container my-5">
+  <h1 class="mb-4">{{ label_text }}</h1>
 
-<h1>{{ page.title }}</h1>
-
-<div class="post-meta mb-3">
-  <i class="far fa-folder-open fa-fw me-1"></i>
-
-  {% assign base_path = '/categories/' %}
-  {% assign label = 'Categories' %}
-  {% if page.url == '/topics/' %}
-    {% assign base_path = '/topics/' %}
-    {% assign label = 'Topics' %}
-  {% endif %}
-
-  <p><strong>{{ label }}:</strong></p>
-
-  {% for category in site.categories %}
-    <a href="{{ site.baseurl }}{{ base_path }}{{ category[0] | slugify | url_encode }}/">
-      {{ category[0] }}
-    </a>{% unless forloop.last %}, {% endunless %}
-  {% endfor %}
+  <div class="post-meta mb-3">
+    <i class="far fa-folder-open fa-fw me-1"></i>
+    {% for category in site.categories %}
+      <a href="{{ site.baseurl }}{{ base_path }}{{ category[0] | slugify | url_encode }}/" class="me-2">
+        {{ category[0] }}
+      </a>
+      {% unless forloop.last %}, {% endunless %}
+    {% endfor %}
+  </div>
 </div>
