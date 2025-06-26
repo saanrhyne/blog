@@ -3,10 +3,10 @@ layout: post
 title: Success Writeup - SmileyCTF 2025
 description: My writeup for the rev/Success challenge in SmileyCTF 2025
 image: "/assets/img/success0.png"
-category:
-- Writeups
+
 tags:
 - rev
+- writeup
 - smileyctf 2025
 date: 2025-6-15 00:00 -0500
 ---
