@@ -14,7 +14,7 @@ date: 2025-6-23 00:07 -0500
 ---
 
 # Web/What? - Thomas Raskin
-*Surmount the insurmountable. [http://challs.bcactf.com:47861](http://challs.bcactf.com:47861)*
+*Surmount the insurmountable. http://challs.bcactf.com:47861*
 
 ## Initial Thoughts
 We are given a website that asks you to input two strings, and then compares their hashes. We are also given a `what.php`, a script that determines the conditions you must meet to get the flag.
