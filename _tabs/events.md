@@ -6,12 +6,9 @@ order: 2
 
 Below is a chronological list of cyber competitions I’ve participated in, along with scores and placements. The team name links to our individual profile for the event, if there was one. My username for all of these should be some variation of `Sans`. 
 
-### BCA CTF 6.0: [*Sytnax Error*](https://play.bcactf.com/teams/70) - 975 points
+### BCACTF 6.0: [*Sytnax Error*](https://play.bcactf.com/teams/70) - 975 points
 * 76th Overall (of 276 teams)
-* Writeups in progress
-
-### cornCTF 2025: [*Sytnax Error*](https://play.cornc.tf/users/105) - 60 points
-* 76th Overall (of 269 teams)
+* My writeups can be found [here](/categories/bcactf-6-0)
 
 ### IERAE CTF 2025: *Sytnax Error* - 398 points
 * 249th Overall (of 538 teams)
