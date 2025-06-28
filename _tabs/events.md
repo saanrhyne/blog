@@ -4,7 +4,7 @@ icon: fas fa-trophy
 order: 2
 ---
 
-Below is a chronological list of cyber competitions I’ve participated in, along with scores and placements. The team name links to our individual profile for the event, if there was one. My username for all of these should be some variation of `Sans`. 
+Below is a chronological list of cyber competitions I’ve participated in, along with scores and placements. The team name links to our individual profile for the event, if there was one. My username for all of these should be some variation of "sans". Currently, I compete with [Sytnax Error](https://ctftime.org/team/365677).
 
 ### BCACTF 6.0: [*Sytnax Error*](https://play.bcactf.com/teams/70) - 975 points
 * 76th Overall (of 276 teams)
