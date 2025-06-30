@@ -14,8 +14,4 @@ I created this website to share my ideas, experiences, and writeups with others.
 * I compete in CyberPatriot and CTF competitions, and was a CyberPatriot National Finalist in the 2024-25 season
 * I train in Seido karate, where I am a brown belt, and hold a junior black belt in Jiu Jitsu
 
-One of my guiding principles, taken from the muscial *Hamilton*, is:
-
-> "God help and forgive me, I wanna build something that's gonna outlive me."
-
 Feel free to contact me via email at `srhyne0516@gmail.com` if you want to discuss cybersecurity, public policy, high school, or anything related to me or this website. I hope you enjoy reading my blog, and that you learn something from it. Have a great day!
