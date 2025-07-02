@@ -7,6 +7,9 @@ image: "/assets/img/nats1.jpg"
 categories:
 - Cyberpatriot
 
+tags:
+- Guide
+
 date: 2025-3-17 00:00 -0500
 ---
 
