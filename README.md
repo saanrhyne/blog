@@ -2,4 +2,4 @@
 
 All of the config files for my website.
 
-Check out my website: [saanrhyne.github.io](https://saanrhyne.github.io/)
+Check out my website: [saanrhyne.com](https://saanrhyne.com/)
