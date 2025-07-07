@@ -7,7 +7,7 @@ order: 2
 Below is a chronological list of cyber competitions I’ve participated in, along with scores and placements. The team name links to our individual profile for the event, if there was one. My username for all of these should be some variation of "sans". Currently, I compete with [Sytnax Error](https://ctftime.org/team/365677).
 
 ### R3CTF 2025: [*Sytnax Error*](https://ctf2025.r3kapig.com/games/1/teams/300) - 401 points
-* 147th Overall (of 1455 teams)
+* 147th Overall (of 1456 teams)
 * Writeups in progress
 
 ### CubeCTF: [*Sytnax Error*](https://cubectf.com/teams/291) - 232 points
