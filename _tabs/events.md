@@ -11,11 +11,10 @@ Below is a chronological list of cyber competitions I’ve participated in, alon
 
 ### R3CTF 2025: [*Sytnax Error*](https://ctf2025.r3kapig.com/games/1/teams/300) - 401 points
 * 147th Overall (of 1456 teams)
-* Writeups in progress
 
 ### CubeCTF: [*Sytnax Error*](https://cubectf.com/teams/291) - 232 points
 * 250th Overall (of 375 teams)
-* Writeups in progress
+* My writeups can be found [here](/categories/cubectf)
 
 ### BCACTF 6.0: [*Sytnax Error*](https://play.bcactf.com/teams/70) - 975 points
 * 76th Overall (of 276 teams)
