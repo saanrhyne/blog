@@ -9,7 +9,7 @@ categories:
 - CubeCTF
 
 tags:
-- Misc
+- OSINT
 
 date: 2025-7-6 00:00 -0500
 ---
