@@ -6,6 +6,10 @@ order: 2
 
 Below is a chronological list of cyber competitions I’ve participated in, along with scores and placements. The team name links to our individual profile for the event, if there was one. My username for all of these should be some variation of "sans". Currently, I compete with [Sytnax Error](https://ctftime.org/team/365677).
 
+### DownUnderCTF 2025: [*Sytnax Error*](https://2025.duc.tf/teams/1848) - 1000 points
+* 509th Overall (of 1667 teams)
+* Writeups coming soon
+
 ### No Hack No CTF 2025: [*Sytnax Error*](https://nhnc.ic3dt3a.org/teams/33) - 368 points
 * 146th Overall (of 473 teams)
 
