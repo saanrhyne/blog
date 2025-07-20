@@ -9,7 +9,7 @@ categories:
 - SmileyCTF 2025
 
 tags:
-- Misc
+- OSINT
 
 date: 2025-6-15 00:00 -0500
 ---
