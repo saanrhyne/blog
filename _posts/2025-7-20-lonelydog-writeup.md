@@ -50,4 +50,4 @@ After scrolling through lots of authentication signatures and random information
 ![flag](/assets/img/lonelydog8.png)
 
 ## Solution
-The flag is DUCTF{g00d-luCk-G3tT1nG-ThR0uGh-Al1s-Th3-eM41Ls}. I didn't know that you could view a lot more information about an email like that, and props to the organizers for keeping with the email inbox theme.
+The flag is `DUCTF{g00d-luCk-G3tT1nG-ThR0uGh-Al1s-Th3-eM41Ls}`. I didn't know that you could view a lot more information about an email like that, and props to the organizers for keeping with the email inbox theme.
