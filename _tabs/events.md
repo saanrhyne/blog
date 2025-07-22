@@ -8,7 +8,7 @@ Below is a chronological list of cyber competitions I’ve participated in, alon
 
 ### DownUnderCTF 2025: [*Sytnax Error*](https://2025.duc.tf/teams/1848) - 1000 points
 * 509th Overall (of 1667 teams)
-* Writeups coming soon
+* My writeups can be found [here](/categories/downunderctf-2025)
 
 ### No Hack No CTF 2025: [*Sytnax Error*](https://nhnc.ic3dt3a.org/teams/33) - 368 points
 * 146th Overall (of 473 teams)
@@ -35,6 +35,15 @@ Below is a chronological list of cyber competitions I’ve participated in, alon
 ### SmileyCTF 2025: [*Sytnax Error*](https://play.ctf.gg/profile/eYPIor_XVEJ2xog7iLugF) - 110 points
 * 457th Overall (of 1090 teams)
 * My writeups can be found [here](/categories/smileyctf-2025/)
+
+### eCitadel III: *Sytnax Error* - -115 points
+* 108th Overall (of 167 teams)
+* -62 Red Team penalties (2nd)
+* 110 CCS points (44th)
+* 52 Inject points (92nd)
+* -10 Adjustment points (135th)
+* -270 SLA penalties (142nd)
+* 65 Service points (145th)
 
 ### CHCTF 2025: *Sytnax Error*
 * 2nd Overall (of ~20 teams)
