@@ -46,4 +46,4 @@ When I click "Check if you are rich", it gives me the flag.
 ![website](/assets/img/stonks5.png)
 
 ## Solution
-The flag is DUCTF{r3u5iNg_d3R_S35510N5_4_St000o0oONKsS5!}. This unintended solve shows the danger of using one instance for all teams and not having unique instances.
+The flag is `DUCTF{r3u5iNg_d3R_S35510N5_4_St000o0oONKsS5!}`. This unintended solve shows the danger of using one instance for all teams and not having unique instances.
