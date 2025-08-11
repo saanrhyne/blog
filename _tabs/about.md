@@ -13,5 +13,6 @@ I created this website to share my ideas, experiences, and writeups with others.
 * I am involved in student leadership and advocacy on the county and state level
 * I compete in CyberPatriot and CTF competitions, and was a CyberPatriot National Finalist in the 2024-25 season
 * I train in Seido karate, where I am a brown belt, and hold a junior black belt in Jiu Jitsu
+* I use flashcards to study for everything, from Cisco to AP exams, and they can all be found on [Knowt](https://knowt.com/u/sans_).
 
 Feel free to contact me via email at [contact@saanrhyne.com](mailto:contact@saanrhyne.com) if you want to discuss cybersecurity, public policy, high school, or anything else. I hope you enjoy reading my blog, and that you learn something from it. Have a great day!
