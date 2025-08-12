@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Plain Sight Writeup - BCACTF 6.0
-description: My writeup for the Foren/Plain Sight challenge in BCACTF 6.0
+description: My writeup for the Forensics/Plain Sight challenge in BCACTF 6.0
 image: "/assets/img/plainsight0.png"
 
 categories:
@@ -9,7 +9,7 @@ categories:
 - BCACTF 6.0
 
 tags:
-- Foren
+- Forensics
 date: 2025-6-23 00:05 -0500
 ---
 
