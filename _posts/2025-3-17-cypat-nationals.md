@@ -5,10 +5,11 @@ description: That still feels weird to say
 image: "/assets/img/nats1.jpg"
 
 categories:
-- Cyberpatriot
+- Guides
+- Cyber
 
 tags:
-- Guide
+- CyberPatriot
 
 date: 2025-3-17 00:00 -0500
 ---
