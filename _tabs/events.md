@@ -9,6 +9,7 @@ Below is a chronological list of cyber competitions I’ve participated in, alon
 ### DownUnderCTF 2025: [*Sytnax Error*](https://2025.duc.tf/teams/1848) - 1000 points
 * 509th Overall (of 1667 teams)
 * My writeups can be found [here](/categories/downunderctf-2025)
+* I won $100 AUD (~$65 USD) - more info coming soon!
 
 ### No Hack No CTF 2025: [*Sytnax Error*](https://nhnc.ic3dt3a.org/teams/33) - 368 points
 * 146th Overall (of 473 teams)
@@ -48,10 +49,12 @@ Below is a chronological list of cyber competitions I’ve participated in, alon
 ### CHCTF 2025: *Sytnax Error*
 * 2nd Overall (of ~20 teams)
 * In-Person Competition
+* Our team won $40 in MicroCenter gift cards
 
 ### LBC2 2025: *Sytnax Error*
 * 1st in Beginner (of 41 teams)
 * In-Person Competition
+* Our team won $600
 
 ### PicoCTF 2025: [*Sytnax Error*](https://play.picoctf.org/teams/15354) - 1335 points
 * 216th in US Middle/High School (of 1817 teams)
@@ -65,6 +68,7 @@ Below is a chronological list of cyber competitions I’ve participated in, alon
 * 1st in Middle School (of 2 teams)
 * 4th Overall (of ~15 teams)
 * In-Person Competition
+* Our team won medals
 
 ### LBC2 2024: *Cyber Lions*
 * 8th in Beginner (of 31 teams)
