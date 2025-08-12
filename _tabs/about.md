@@ -13,7 +13,7 @@ I created this website to share my ideas, experiences, and writeups with others.
 * I am involved in student leadership and advocacy on the county and state level
 * I compete in CyberPatriot and CTF competitions, and was a CyberPatriot National Finalist in the 2024-25 season
 * I train in Seido karate, where I am a brown belt, and hold a junior black belt in Jiu Jitsu
-* I use flashcards to study for everything, from Cisco to AP exams, and they can all be found on [Knowt](https://knowt.com/u/sans_).
+* I use flashcards to study for everything, and all of my flashcards can be found on [Knowt](https://knowt.com/u/sans_)
 
 *Authenticity Guarantee:* Any content shared on this webpage is my own and not AI-generated unless explicity marked as such ([example](https://saanrhyne.com/posts/success-writeup/#:~:text=There%20was%20some%20vibe)). While artificial intelligence can be a useful tool, I do not believe it should replace authentic human writing and opinion. I do not post writeups for CTF challenges I solved exclusively using generative AI for this reason.
 
