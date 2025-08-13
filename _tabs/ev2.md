@@ -7,6 +7,7 @@ order: 2
 Below is a chronological list of cyber competitions I’ve participated in, along with scores and placements. The team name links to our individual profile for the event, if there was one. My username for all of these should be some variation of "sans". Currently, I compete with [Sytnax Error](https://ctftime.org/team/365677).
 
 ## CTF Competitions
+
 | Title | Team | Points | Place |  Writeups | Winnings | Notes |
 | ----- | ---- | ------ | ----- | --------- | -------- | ----- |
 | DownUnderCTF 2025 | [Sytnax Error](https://2025.duc.tf/teams/1848) | 1000pts | 509th of 1667 | [Writeups](/categories/downunderctf-2025) | $100 AUD | More info soon! |
