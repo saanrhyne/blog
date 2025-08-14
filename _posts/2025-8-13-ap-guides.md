@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Introducing AP Guides"
-description: The College Board publishes 200+ page documents for each AP course. I am compiling them into significantly shorter documents, known as AP Guides.
+description: The College Board publishes 200+ page documents for each AP course. I am compiling them into much shorter documents.
 image: "/assets/img/apguide0.png"
 
 categories:
