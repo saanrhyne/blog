@@ -13,7 +13,7 @@ Below are the links to resources that I have created for cybersecurity, AP class
 - Timeline [Flashcards](https://knowt.com/flashcards/ff31c285-bb67-4b01-9e9f-3db88f67d039) - All 9 Units
 
 ### AP World History
-- Simplified CED [Document](https://docs.google.com/document/d/1u2NEjHtAruCwUEJlGC2R7_VYe3kwtl6zLeiWFm1_xJY/edit?usp=sharing) - 28 Pages (In progress)
+- Simplified CED [Document](https://docs.google.com/document/d/1u2NEjHtAruCwUEJlGC2R7_VYe3kwtl6zLeiWFm1_xJY/edit?usp=sharing) - 38 Pages
 - Countries to Know [Flashcards](https://knowt.com/flashcards/905816bf-8f4a-4ada-80ae-9e521d1b29b4) - 57 Countries
 - John Green Crash Course [Flashcards](https://knowt.com/folder/60d4e883-1d48-4a14-b36d-848b0283954d) - Videos #7, #12, #13, #14
 
