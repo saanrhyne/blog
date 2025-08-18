@@ -10,6 +10,7 @@ Below is a chronological list of cyber competitions I’ve participated in, alon
 
 | Title | Team | Points | Place |  Writeups | Winnings |
 | ----- | ---- | ------ | ----- | --------- | -------- |
+| scriptCTF 2025 | [Sytnax Error](https://play.scriptsorcerers.xyz/teams/369) | 3070pts | 263rd of 1190 | [Writeups](/categories/scriptctf-205) | |
 | DownUnderCTF 2025 | [Sytnax Error](https://2025.duc.tf/teams/1848) | 1000pts | 509th of 1667 | [Writeups](/categories/downunderctf-2025) | $100 AUD |
 | No Hack No CTF 2025 | [Sytnax Error](https://nhnc.ic3dt3a.org/teams/33) | 368pts | 146th of 473 | | |
 | R3CTF 2025 | [Sytnax Error](https://ctf2025.r3kapig.com/games/1/teams/300) | 401pts | 147th of 1456 | | |
