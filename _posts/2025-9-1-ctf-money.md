@@ -2,7 +2,7 @@
 layout: post
 title: I Won $65.35 from a CTF
 description: I won money from Down Under CTF's writeup contest!
-image: "/assets/img/ctf-money/thumbnail.png"
+image: "/assets/img/writeup-money/thumbnail.png"
 
 categories:
 - Writeups
