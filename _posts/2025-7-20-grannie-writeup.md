@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Love GranniE Writeup - DownUnderCTF 2025
-description: My writeup for the OSINT/Love GranniE challenge in DownUnderCTF 2025
+description: My prize-winning writeup for the OSINT/Love GranniE challenge in DownUnderCTF 2025
 image: "/assets/img/grannie0.jpg"
 
 categories:
@@ -71,3 +71,5 @@ On that same Cinema Treasures listing, I found out that the theater used to be c
 
 ## Solution
 The flag is `DUCTF{CambriaTheatre_46BeecroftRoad_Epping}`. This was a fairly easy and fun OSINT challenge, and shoutout to the moderators for putting up with my ridiculousness.
+
+I won $65.35 for this "Most Entertaining" writeup thanks to the DUCTF team - learn more [here](/posts/ctf-money).
