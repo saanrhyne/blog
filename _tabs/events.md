@@ -40,6 +40,6 @@ Below is a chronological list of cyber competitions I’ve participated in, alon
 * -270 SLA penalties (142nd)
 * 65 Service points (145th)
 
-### CyberPatriot 17: [pbchocolate](https://www.uscyberpatriot.org/Documents/CP17_Program_2025_web.pdf#page=11)
+### CyberPatriot 17: [pbchocolate](https://www.uscyberpatriot.org)
 * National Finalist, Open Division
 * 10th in Open Division (of 2890 teams)
