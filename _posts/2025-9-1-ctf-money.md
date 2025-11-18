@@ -8,6 +8,9 @@ categories:
 - Writeups
 - DownUnderCTF 2025
 
+tags:
+- OSINT
+
 date: 2025-9-1 00:00 -0500
 ---
 
