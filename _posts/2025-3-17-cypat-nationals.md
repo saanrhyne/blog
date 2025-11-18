@@ -5,7 +5,6 @@ description: That still feels weird to say
 image: "/assets/img/nats1.jpg"
 
 categories:
-- Guides
 - Cyber
 
 tags:
