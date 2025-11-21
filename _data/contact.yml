@@ -3,27 +3,17 @@
 - type: github
   icon: "fab fa-github"
 
-<<<<<<< HEAD
 - #type: twitter
   #icon: "fa-brands fa-x-twitter"
-=======
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
->>>>>>> v7.4.1
 
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-<<<<<<< HEAD
 - #type: rss
   #icon: "fas fa-rss"
   #noblank: true
-=======
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
->>>>>>> v7.4.1
+
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
