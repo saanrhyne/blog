@@ -17,7 +17,7 @@ date: 2025-9-1 00:00 -0500
 # I won $65.35 from a CTF
 Over the summer, my CTF team [Sytnax Error](https://ctftime.org/team/365677) did about one CTF a week. We didn't place super well in any of them, but we still had tons of fun, learned a lot, and I even made some money.
 
-I entered my [writeup](/posts/grannie-writeup) for the Love GranniE challenge from [DUCTF](https://downunderctf.com/) into their "Most Entertaining Writeup" challenge. I always enter in writeup challenges from CTFs, just because there's a small chance I could win.
+I entered my [writeup](/blog/posts/grannie-writeup) for the Love GranniE challenge from [DUCTF](https://downunderctf.com/) into their "Most Entertaining Writeup" challenge. I always enter in writeup challenges from CTFs, just because there's a small chance I could win.
 
 About a week after the writeup contest closed, I got an email from the president of Down Under CTF.
 
