@@ -37,7 +37,7 @@ I listened out to feel its silence beat.
 It does not speak with any human mouth.
 ```
 
-My first thought was, like the [Dessert Time](/posts/desserttime-writeup/) challenge, to check for hidden text. Unfortunately, I found none.
+My first thought was, like the [Dessert Time](/blog/posts/desserttime-writeup/) challenge, to check for hidden text. Unfortunately, I found none.
 
 ## Methodology
 I then decided to check for hidden images in the PDF using [I Love PDF](https://www.ilovepdf.com/pdf_to_jpg).
