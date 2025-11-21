@@ -17,7 +17,7 @@ date: 2025-8-18 00:00 -0500
 
 *just an innocent little avocado!*
 
-[avocado.jpg](/assets/attachments/avocado.jpg)
+[avocado.jpg](/blog/assets/attachments/avocado.jpg)
 
 ## Initial Thoughts
 We are given an image file, `avocado.jpg`. Because it is a forensics challenge, the first thing to check is stegonography.
