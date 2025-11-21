@@ -72,4 +72,4 @@ On that same Cinema Treasures listing, I found out that the theater used to be c
 ## Solution
 The flag is `DUCTF{CambriaTheatre_46BeecroftRoad_Epping}`. This was a fairly easy and fun OSINT challenge, and shoutout to the moderators for putting up with my ridiculousness.
 
-I won $65.35 for this "Most Entertaining" writeup thanks to the DUCTF team - learn more [here](/posts/ctf-money).
+I won $65.35 for this "Most Entertaining" writeup thanks to the DUCTF team - learn more [here](/blog/posts/ctf-money).
