@@ -18,8 +18,8 @@ Below is a chronological list of cyber competitions I’ve participated in, alon
 | CubeCTF | [Sytnax Error](https://cubectf.com/teams/291) | 232pts | 250th of 375 | [Writeups](/blog/categories/cubectf) | |
 | cornCTF 2025 | Sytnax Error | 60pts | 76th of 270 | | |
 | BCACTF 6.0 | [Sytnax Error](https://play.bcactf.com/teams/70) | 975pts | 76th of 276 | [Writeups](/blog/categories/bcactf-6-0) | |
-| IERAE CTF 2025 | Sytnax Error | 398pts | 249th of 538 | [Writeups](/categories/ierae-ctf-2025/) | |
-| GPN CTF 2025 | Sytnax Error | 122pts | 307th of 634 | [Writeups](/categories/gpn-ctf-2025) | |
+| IERAE CTF 2025 | Sytnax Error | 398pts | 249th of 538 | [Writeups](/blog/categories/ierae-ctf-2025/) | |
+| GPN CTF 2025 | Sytnax Error | 122pts | 307th of 634 | [Writeups](/blog/categories/gpn-ctf-2025) | |
 | SmileyCTF 2025 | [Sytnax Error](https://play.ctf.gg/profile/eYPIor_XVEJ2xog7iLugF) | 110pts | 457th of 1090 | [Writeups](/blog/categories/smileyctf-2025) | |
 | CHCTF 2025 | Sytnax Error | 1611pts | 2nd of ~20 | | $40 |
 | LBC2 2025 Beginner | Sytnax Error | 11375pts | 1st of 41 | | $600 |
